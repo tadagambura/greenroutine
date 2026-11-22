@@ -2,7 +2,7 @@
 
 **Small swaps, less waste, visible impact**
 
-> #25 of 33 in the build order · Medium · Revenue potential: Low–medium · Home & Household
+> #19 of 33 · Wave 2: Recurring keepers · Used: Daily/weekly · Medium · Revenue potential: Low–medium · Home & Household
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Impact cards |
 | Next step | Monthly challenge |
 | Cadence | Daily/weekly |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
