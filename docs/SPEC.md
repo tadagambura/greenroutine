@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- A small planet smiles more as the month's impact grows
+- Reuse logged: the reusable cup high-fives the stickman
+- Food saved: a caped stickman rescues a wilting carrot
+- Collection day: the bin rolls itself to the kerb
+- Monthly impact: the little planet smiles bigger
+- Challenge done: a seed sprouts into a tree
 
 **Line we don't cross:** No eco-guilt animations.
 
