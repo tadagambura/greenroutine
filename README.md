@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Monthly challenge |
 | Cadence | Daily/weekly |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- A small planet smiles more as the month's impact grows
+
+**Line we don't cross:** No eco-guilt animations.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
