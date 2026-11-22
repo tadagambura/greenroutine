@@ -42,6 +42,8 @@ Eco-conscious households, zero-waste beginners, parents cutting plastic and food
 | Premium | £2.99/month: unlimited tracking, sharing, reports, packs |
 | Affiliate | Eco products, carefully chosen and labelled |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
