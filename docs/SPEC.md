@@ -1,6 +1,6 @@
 # GreenRoutine: Spec
 
-**Small swaps, less waste, visible impact** · #18 of 32 · Wave 2: Recurring keepers · Used: Daily/weekly · Medium · Revenue potential: Low–medium · Home & Household · Source: Perplexity
+**Small swaps, less waste, visible impact** · #18 of 31 · Wave 2: Recurring keepers · Used: Daily/weekly · Medium · Revenue potential: Low–medium · Home & Household · Source: Perplexity
 
 ## One-liner
 
