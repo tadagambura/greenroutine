@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Monthly challenge |
 | Cadence | Daily/weekly |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- A small planet smiles more as the month's impact grows
+- Reuse logged: the reusable cup high-fives the stickman
+- Food saved: a caped stickman rescues a wilting carrot
+- Collection day: the bin rolls itself to the kerb
+- Monthly impact: the little planet smiles bigger
+- Challenge done: a seed sprouts into a tree
 
 **Line we don't cross:** No eco-guilt animations.
 
