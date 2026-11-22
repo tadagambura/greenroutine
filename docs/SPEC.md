@@ -88,4 +88,4 @@ Must never feel preachy. Impact numbers must be honest estimates with sources (n
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
